@@ -1,3 +1,9 @@
 I am going to test svn log for commit done on directory containg the edited file.
 
 This is to test what happens when we edit the file instead of adding it like the previous line/commit and make a commit on directory containing the edited file via SVN client software
+
+testLine1: This is to test "svn log --diff -r COMMITTED"
+testLine2
+testLine3
+testLine4
+testLine5
