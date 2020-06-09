@@ -1,0 +1,1 @@
+This is to check if the change committed on TrunkJr1's file directly on TrunkJr1 is shown in the log of its sibling TrunkJr2
