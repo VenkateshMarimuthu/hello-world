@@ -1,0 +1,2 @@
+This is to test "svn diff -c multiple file paths"
+The commit will be made on root directory. This file will be committed along with the files test_svndiff_Jr1 and test_svn_diff
