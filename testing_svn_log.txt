@@ -1,0 +1,1 @@
+I am going to test svn log for commit done on directory containg the edited file.
